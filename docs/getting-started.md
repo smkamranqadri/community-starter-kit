@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to the team.
+Welcome aboard.
+Hurray! we welcome you here.
