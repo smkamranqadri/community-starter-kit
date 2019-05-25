@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A bot to welcome new users.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1. Bit will welcome new users on your behalf.
 
 ## Getting started
 
